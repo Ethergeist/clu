@@ -1,2 +1,2 @@
-# clu
-CLU - C Library Utilities
+# CLU
+C Library Utilities
